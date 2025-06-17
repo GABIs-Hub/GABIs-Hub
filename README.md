@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SMOKD01
+- 👋 Hi, I’m @GABI
 - 👀 I’m interested in programming, graphics designing, 3D Modelling
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on ...

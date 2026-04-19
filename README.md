@@ -5,9 +5,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/david-ogabi-b77a2a31a)
 [![Email](https://img.shields.io/badge/Email-ogabidavid16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogabidavid16@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
 
 </div>
 
@@ -19,9 +19,7 @@ I'm **Gabi** — a multidisciplinary developer and creative technologist based i
 
 - 📱 **Junior Mobile Developer** working across Flutter, React Native, and Kotlin/Jetpack Compose
 - 🌐 **Web Developer** building with React, TypeScript, Tailwind CSS, and Vite
-- 🎨 Exploring **3D modeling, visualization**, and motion/animation in web dev
-- 📈 Swing trader on the side — forex (XAU/USD) and equities
-- 🎮 Gamer at heart; I find game dev and interactive design deeply inspiring
+- 🎨 Exploring motion/animation in web dev
 - 🚀 On a deliberate path: **Cross-platform Mobile → Flutter iOS → Native Swift**
 - ⚡ I believe in mastery through consistency — *"Jack of all trades, master of what matters most."*
 
@@ -36,10 +34,10 @@ I'm **Gabi** — a multidisciplinary developer and creative technologist based i
 [![Web Stack](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite)](https://skillicons.dev)
 
 ### ☁️ Backend & Database
-[![Backend Stack](https://skillicons.dev/icons?i=firebase,nodejs)](https://skillicons.dev)
+[![Backend Stack](https://skillicons.dev/icons?i=firebase,nodejs,supabase,neon)](https://skillicons.dev)
 
 ### 🎨 Creative & Tools
-[![Tools](https://skillicons.dev/icons?i=blender,figma,git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -51,16 +49,14 @@ I'm **Gabi** — a multidisciplinary developer and creative technologist based i
 | 💙 **Flutter** | Building real-world apps; targeting iOS down the line |
 | ✨ **Web Animations** | Learning motion design and animation in the browser |
 | 🏗️ **System Architecture** | Hooks, separation of concerns, scalable patterns |
-| 🧠 **3D / Visualization** | Exploring Blender and 3D for games & interactive web |
 
 ---
 
 ## 🚧 What I'm Building
 
-- 🎓 **NACOS DU Resource System** — A React/TypeScript/Tailwind admin dashboard with filterable approvals tables and stat cards
 - 💼 **DepSense API** — A dev-focused API combining dependency health analysis & intelligent error decoding (Node.js + OSV.dev + LLM + Neon DB)
 - 📒 **BizLedger** — A business ledger app (coming soon)
-- 🕹️ **Dev Hero RPG** — A gamified learning tool mapping real projects to in-game realms
+and some other things
 
 ---
 
@@ -68,12 +64,12 @@ I'm **Gabi** — a multidisciplinary developer and creative technologist based i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GABIs-Hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABIs-Hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=GABIs-Hub&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -94,9 +90,7 @@ Web Dev (React/TS) ──► React Native ──► Flutter ──► iOS (Swift
 ## 🎯 Fun Facts
 
 - 🌍 Building from **Ibadan / Lagos, Nigeria**
-- 📊 I journal my trades with a custom Excel P&L tracker
 - 🎮 Gaming fuels my interest in **3D, shaders, and interactive systems**
-- 🖥️ Daily driver: **Google Pixel 9 Pro** + **Windows 11 Pro** machine
 - 📐 I care deeply about clean architecture and design systems
 
 ---

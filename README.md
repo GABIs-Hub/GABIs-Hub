@@ -4,7 +4,7 @@
 <br/>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-ogabidavid16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogabidavid16@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-ogabidavid16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogabidavid16@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=GABIs-Hub&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
  
 </div>

@@ -104,32 +104,3 @@ I'm open to:
 *"You can be a jack of all trades, but the goal is to become a master in what matters most to you."*
  
 </div>
-
-
-
-
-### 📱 Mobile Development
-
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/>
-Flutter
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=dart" width="50"/><br/>
-Dart
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br/>
-Kotlin
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
-React Native
-</td>
-</tr>
-</table>

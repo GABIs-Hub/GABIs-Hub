@@ -57,6 +57,13 @@ I'm **Gabi** — a mobile-first developer and creative technologist, focused on 
 - 💼 **DepSense API** — A dev-focused API combining dependency health analysis & intelligent error decoding (Node.js + OSV.dev + LLM + Neon DB)
 - 📒 **BizLedger** — A business ledger app (coming soon)
 ---
+
+## 📅 Daily Activity
+
+<!--START_ACTIVITY-->
+Loading activity...
+<!--END_ACTIVITY-->
+
  
 ## 📊 GitHub Stats
  

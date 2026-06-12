@@ -101,7 +101,7 @@ I'm open to:
 - 🛠️ **Collaboration** on mobile, web, or creative-tech projects
 - 💡 **Open source** contributions and meaningful builds
 - 💬 **Knowledge sharing** — dev, design, or gaming
-📩 Hit me at **ogabidavid16@gmail.com** or connect on LinkedIn above.
+📩 Hit me at **ogabidavid16@gmail.com** / **gabisworkspace.outlook.com** or connect on LinkedIn above.
  
 ---
  

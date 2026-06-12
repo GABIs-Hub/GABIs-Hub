@@ -69,6 +69,11 @@ I'm **Gabi** — a mobile-first developer and creative technologist, focused on 
 <br/>
 <img src="https://streak-stats.demolab.com?user=GABIs-Hub&theme=tokyonight&hide_border=true" height="165"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabis-hub&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabis-hub&theme=transparent&hide_border=true" width="48%" />
+</p>
 ---
  
 ## 🗺️ My Dev Roadmap

@@ -64,10 +64,7 @@ I'm **Gabi** — a mobile-first developer and creative technologist, focused on 
 ## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GABIs-Hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABIs-Hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=GABIs-Hub&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABIs-Hub&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <p align="center">
@@ -80,7 +77,7 @@ I'm **Gabi** — a mobile-first developer and creative technologist, focused on 
  
 ```
          📱 MAIN TRACK
-Web Dev (React/TS) ──► React Native ──► Flutter ──► iOS (Swift/SwiftUI)
+Web Dev (React/TS) ──► Flutter ──► React Native ──► iOS (Swift/SwiftUI)
  
          🎨 SIDE TRACK
          Web Animations / Motion Design

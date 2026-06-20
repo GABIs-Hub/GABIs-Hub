@@ -6,6 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/david-ogabi-b77a2a31a)
 [![Outlook](https://img.shields.io/badge/Outlook-Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabisworkspace@outlook.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=GABIs-Hub&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
+
+
+<a href="https://www.speedtest.net/result/19336836356"><img src="https://www.speedtest.net/result/19336836356.png"/></a>
  
 </div>
 ---

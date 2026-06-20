@@ -3,15 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=057049&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Gabi+%F0%9F%91%8B;Mobile+Developer+%7C+Flutter+%C2%B7+React+Native+%C2%B7+Kotlin;Web+Dev+on+the+side+%F0%9F%8C%90;Building+across+every+screen+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/david-ogabi-b77a2a31a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-ogabi-b77a2a31a)
 [![Outlook](https://img.shields.io/badge/Outlook-Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabisworkspace@outlook.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=GABIs-Hub&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
 
-
-<a href="https://www.speedtest.net/result/19336836356"><img src="https://www.speedtest.net/result/19336836356.png"/></a>
- 
+ <hr>
 </div>
----
 
 Check out my Portfolio
 https://gabis-workspace.vercel.app/
@@ -104,11 +101,16 @@ I'm open to:
 - 🛠️ **Collaboration** on mobile, web, or creative-tech projects
 - 💡 **Open source** contributions and meaningful builds
 - 💬 **Knowledge sharing** — dev, design, or gaming
-📩 Hit me at **ogabidavid16@gmail.com** / **gabisworkspace.outlook.com** or connect on LinkedIn above.
+- 📩 Hit me at : </br>**ogabidavid16@gmail.com**</br> **gabisworkspace@outlook.com** or connect on LinkedIn above.
  
 ---
- 
+
+## 💭 Dev Quote
+
 <div align="center">
-*"You can be a jack of all trades, but the goal is to become a master in what matters most to you."*
- 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quote=You%20can%20be%20a%20jack%20of%20all%20trades%2C%20but%20the%20goal%20is%20to%20become%20a%20master%20in%20what%20matters%20most%20to%20you.&author=GABI&quoteColor=E6EDF3&authorColor=057049&backgroundColor=0D1117&symbolColor=057049)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>

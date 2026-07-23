@@ -80,7 +80,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 **Proficient:** React · Next.js · TypeScript · Tailwind CSS
 **Experienced:** JavaScript · Vite · Responsive Design
 
-[![Web Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite)](https://skillicons.dev)
+[![Web Stack](https://skillicons.dev/icons?i=html,react,nextjs,css,ts,js,tailwind,vite)](https://skillicons.dev)
 
 </div>
 
@@ -97,7 +97,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 ### ⚙️ **Developer Tools & Workflow**
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,gradle,npm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,sublime,vscode,vercel,vite,figma,gradle,npm)](https://skillicons.dev)
 
 </div>
 
